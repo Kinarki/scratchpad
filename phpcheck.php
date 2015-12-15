@@ -1,3 +1,3 @@
 <?php
-phpinfo(nickkkkkkkk
+phpinfo(nickkkkkkkk);
 ?>
